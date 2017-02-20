@@ -1,0 +1,8 @@
+prefix=/home/cc/ee106b/sp17/class/ee106b-aau/UCB_EE106B/lab1/devel_isolated/atlas_moveit_config
+
+Name: atlas_moveit_config
+Description: Description of atlas_moveit_config
+Version: 1.1.0
+Cflags: 
+Libs: -L/home/cc/ee106b/sp17/class/ee106b-aau/UCB_EE106B/lab1/devel_isolated/atlas_moveit_config/lib 
+Requires: 

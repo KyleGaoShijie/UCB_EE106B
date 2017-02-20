@@ -1,0 +1,8 @@
+prefix=/home/cc/ee106b/sp17/class/ee106b-aau/UCB_EE106B/lab1/devel_isolated/baxter_pykdl
+
+Name: baxter_pykdl
+Description: Description of baxter_pykdl
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/cc/ee106b/sp17/class/ee106b-aau/UCB_EE106B/lab1/devel_isolated/baxter_pykdl/lib 
+Requires: rospy geometry_msgs sensor_msgs urdfdom tf baxter_interface baxter_core_msgs

@@ -1,0 +1,8 @@
+prefix=/home/cc/ee106b/sp17/class/ee106b-aau/UCB_EE106B/lab1/devel_isolated/rethink_ee_description
+
+Name: rethink_ee_description
+Description: Description of rethink_ee_description
+Version: 1.2.0
+Cflags: 
+Libs: -L/home/cc/ee106b/sp17/class/ee106b-aau/UCB_EE106B/lab1/devel_isolated/rethink_ee_description/lib 
+Requires: 
